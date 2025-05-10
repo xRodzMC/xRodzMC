@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   ❞</i>
+<i>❝500 hours of Video are uploaded to Facebook every minute according to Forecast.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
