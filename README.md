@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   ❞</i>
+<i>❝“Computer viruses are an urban legend.”— Peter Norton, 1988   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
