@@ -4,7 +4,7 @@
 <hr>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology.”— Bruce Schneier  ❞</i>
+<i>❝As computers run, they get hot. Computers have fans to keep them cool.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <hr>
