@@ -10,7 +10,7 @@
 <hr>
 
 # About Me 👋
-<p align="center"><b>“</b>Programmer since 2016, Reverse-Engineer since 2019, I do a lot of Minecraft-related things.<b>”</b></p>
+<p align="center"><b>“</b>Full-stack developer, Pro-refact and minecraft coding euthathist.<b>”</b></p>
 <p align="center"><b><a href="https://rodzmc.xyz/" alt="My Website and Blogs">Website</a></b> | <b><a href="https://rodzmc.xyz/?p=youtube" alt="My Youtube Channel">Youtube</a></b> | <b><a href="https://rodzmc.xyz/?p=twitter" alt="twitter">Twitter</a></b> | <b><a href="https://rodzmc.xyz/?p=discord" alt="My Discord Account">Discord</a></b></p>
 
 - Contributed to **Several Repository** Related on **Minecraft-Things** 🔥
